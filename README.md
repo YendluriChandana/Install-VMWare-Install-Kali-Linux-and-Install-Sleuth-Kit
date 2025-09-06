@@ -1,4 +1,3 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d5fd1301-fe55-40dc-9e59-d7251f2b5ee8" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name:Yendluri Chandana
 ### Reg No: 212223100063
 ## AIM:
@@ -55,6 +54,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 **SLEUTH-KIT:**
+
 ![WhatsApp Image 2025-09-06 at 13 20 14_64013741](https://github.com/user-attachments/assets/e74828db-fcd2-48bf-bc77-8b66bfd96f88)
 
 
