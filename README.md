@@ -1,4 +1,4 @@
-# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d5fd1301-fe55-40dc-9e59-d7251f2b5ee8" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name:Yendluri Chandana
 ### Reg No: 212223100063
 ## AIM:
@@ -44,12 +44,14 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## OUTPUT:
 **VIRTUAL BOX:**
-<img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/4fd66c7f-61e6-464a-8a8d-a8cf14c21ec3" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0ee6076-7f1e-4f74-b4be-5707dbb9bb92" />
+
 
 
 **KALI LINUX:**
 
-![WhatsApp Image 2025-09-06 at 13 19 46_076eaa87](https://github.com/user-attachments/assets/ed657e42-37ea-4427-970e-a476abec72d6)
+<img width="688" height="384" alt="image" src="https://github.com/user-attachments/assets/db6b793e-f312-450a-903b-f8e004216cbe" />
+
 
 
 **SLEUTH-KIT:**
